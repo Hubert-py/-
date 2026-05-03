@@ -203,5 +203,3 @@ python generate_data.py -c 500 -o my_canteen_data.json
 ### 致谢
 
 感谢学校提供脱敏后的真实数据样本（测试数据基于真实格式模拟生成）。
-
-> （注：文档部分内容可能由 AI 生成）
