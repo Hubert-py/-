@@ -1,0 +1,1752 @@
+[
+  {
+    "transaction_id": "T001",
+    "student_id": "S1159",
+    "timestamp": "2026-05-12 11:51:35",
+    "window_id": "W05",
+    "amount": 5.73
+  },
+  {
+    "transaction_id": "T002",
+    "student_id": "S1139",
+    "timestamp": "2026-05-15 17:38:24",
+    "window_id": "W05",
+    "amount": 3.03
+  },
+  {
+    "transaction_id": "T003",
+    "student_id": "S1192",
+    "timestamp": "2026-05-18 18:45:36",
+    "window_id": "W05",
+    "amount": 3.99
+  },
+  {
+    "transaction_id": "T004",
+    "student_id": "S1101",
+    "timestamp": "2026-05-13 11:49:42",
+    "window_id": "W06",
+    "amount": 8.58
+  },
+  {
+    "transaction_id": "T005",
+    "student_id": "S1122",
+    "timestamp": "2026-05-17 18:37:56",
+    "window_id": "W03",
+    "amount": 8.75
+  },
+  {
+    "transaction_id": "T006",
+    "student_id": "S1175",
+    "timestamp": "2026-05-16 12:48:35",
+    "window_id": "W05",
+    "amount": 5.23
+  },
+  {
+    "transaction_id": "T007",
+    "student_id": "S1048",
+    "timestamp": "2026-05-18 11:09:17",
+    "window_id": "W05",
+    "amount": 4.04
+  },
+  {
+    "transaction_id": "T008",
+    "student_id": "S1129",
+    "timestamp": "2026-05-18 18:41:40",
+    "window_id": "W02",
+    "amount": 8.6
+  },
+  {
+    "transaction_id": "T009",
+    "student_id": "S1183",
+    "timestamp": "2026-05-15 11:50:16",
+    "window_id": "W06",
+    "amount": 9.8
+  },
+  {
+    "transaction_id": "T010",
+    "student_id": "S1029",
+    "timestamp": "2026-05-18 18:47:21",
+    "window_id": "W03",
+    "amount": 7.5
+  },
+  {
+    "transaction_id": "T011",
+    "student_id": "S1190",
+    "timestamp": "2026-05-14 12:17:14",
+    "window_id": "W02",
+    "amount": 11.08
+  },
+  {
+    "transaction_id": "T012",
+    "student_id": "S1071",
+    "timestamp": "2026-05-18 17:18:30",
+    "window_id": "W06",
+    "amount": 7.84
+  },
+  {
+    "transaction_id": "T013",
+    "student_id": "S1192",
+    "timestamp": "2026-05-18 17:24:45",
+    "window_id": "W05",
+    "amount": 4.7
+  },
+  {
+    "transaction_id": "T014",
+    "student_id": "S1159",
+    "timestamp": "2026-05-16 11:46:20",
+    "window_id": "W01",
+    "amount": 12.7
+  },
+  {
+    "transaction_id": "T015",
+    "student_id": "S1165",
+    "timestamp": "2026-05-14 17:32:54",
+    "window_id": "W02",
+    "amount": 11.55
+  },
+  {
+    "transaction_id": "T016",
+    "student_id": "S1148",
+    "timestamp": "2026-05-13 18:33:44",
+    "window_id": "W01",
+    "amount": 13.35
+  },
+  {
+    "transaction_id": "T017",
+    "student_id": "S1197",
+    "timestamp": "2026-05-14 18:06:59",
+    "window_id": "W03",
+    "amount": 7.22
+  },
+  {
+    "transaction_id": "T018",
+    "student_id": "S1069",
+    "timestamp": "2026-05-16 12:29:02",
+    "window_id": "W05",
+    "amount": 4.3
+  },
+  {
+    "transaction_id": "T019",
+    "student_id": "S1042",
+    "timestamp": "2026-05-15 12:59:56",
+    "window_id": "W05",
+    "amount": 5.92
+  },
+  {
+    "transaction_id": "T020",
+    "student_id": "S1189",
+    "timestamp": "2026-05-17 11:11:23",
+    "window_id": "W06",
+    "amount": 6.71
+  },
+  {
+    "transaction_id": "T021",
+    "student_id": "S1146",
+    "timestamp": "2026-05-16 18:05:55",
+    "window_id": "W03",
+    "amount": 7.31
+  },
+  {
+    "transaction_id": "T022",
+    "student_id": "S1115",
+    "timestamp": "2026-05-13 12:17:03",
+    "window_id": "W03",
+    "amount": 9.25
+  },
+  {
+    "transaction_id": "T023",
+    "student_id": "S1008",
+    "timestamp": "2026-05-12 18:53:44",
+    "window_id": "W03",
+    "amount": 8.68
+  },
+  {
+    "transaction_id": "T024",
+    "student_id": "S1088",
+    "timestamp": "2026-05-13 17:51:43",
+    "window_id": "W05",
+    "amount": 4.66
+  },
+  {
+    "transaction_id": "T025",
+    "student_id": "S1067",
+    "timestamp": "2026-05-16 11:37:47",
+    "window_id": "W01",
+    "amount": 13.93
+  },
+  {
+    "transaction_id": "T026",
+    "student_id": "S1033",
+    "timestamp": "2026-05-18 18:00:06",
+    "window_id": "W01",
+    "amount": 10.73
+  },
+  {
+    "transaction_id": "T027",
+    "student_id": "S1172",
+    "timestamp": "2026-05-13 12:12:21",
+    "window_id": "W02",
+    "amount": 11.79
+  },
+  {
+    "transaction_id": "T028",
+    "student_id": "S1052",
+    "timestamp": "2026-05-18 18:50:48",
+    "window_id": "W06",
+    "amount": 7.51
+  },
+  {
+    "transaction_id": "T029",
+    "student_id": "S1054",
+    "timestamp": "2026-05-17 18:12:18",
+    "window_id": "W03",
+    "amount": 6.05
+  },
+  {
+    "transaction_id": "T030",
+    "student_id": "S1193",
+    "timestamp": "2026-05-17 11:21:04",
+    "window_id": "W02",
+    "amount": 11.81
+  },
+  {
+    "transaction_id": "T031",
+    "student_id": "S1132",
+    "timestamp": "2026-05-16 12:06:25",
+    "window_id": "W05",
+    "amount": 3.54
+  },
+  {
+    "transaction_id": "T032",
+    "student_id": "S1003",
+    "timestamp": "2026-05-17 11:58:10",
+    "window_id": "W04",
+    "amount": 7.93
+  },
+  {
+    "transaction_id": "T033",
+    "student_id": "S1107",
+    "timestamp": "2026-05-16 18:44:04",
+    "window_id": "W01",
+    "amount": 10.07
+  },
+  {
+    "transaction_id": "T034",
+    "student_id": "S1072",
+    "timestamp": "2026-05-18 18:41:28",
+    "window_id": "W05",
+    "amount": 3.44
+  },
+  {
+    "transaction_id": "T035",
+    "student_id": "S1103",
+    "timestamp": "2026-05-17 18:22:59",
+    "window_id": "W02",
+    "amount": 9.63
+  },
+  {
+    "transaction_id": "T036",
+    "student_id": "S1111",
+    "timestamp": "2026-05-17 12:14:05",
+    "window_id": "W01",
+    "amount": 14.02
+  },
+  {
+    "transaction_id": "T037",
+    "student_id": "S1127",
+    "timestamp": "2026-05-13 18:03:56",
+    "window_id": "W03",
+    "amount": 9.96
+  },
+  {
+    "transaction_id": "T038",
+    "student_id": "S1024",
+    "timestamp": "2026-05-15 11:18:03",
+    "window_id": "W01",
+    "amount": 10.67
+  },
+  {
+    "transaction_id": "T039",
+    "student_id": "S1135",
+    "timestamp": "2026-05-17 18:35:12",
+    "window_id": "W03",
+    "amount": 8.11
+  },
+  {
+    "transaction_id": "T040",
+    "student_id": "S1033",
+    "timestamp": "2026-05-17 12:49:34",
+    "window_id": "W02",
+    "amount": 10.24
+  },
+  {
+    "transaction_id": "T041",
+    "student_id": "S1005",
+    "timestamp": "2026-05-16 18:35:05",
+    "window_id": "W03",
+    "amount": 9.54
+  },
+  {
+    "transaction_id": "T042",
+    "student_id": "S1069",
+    "timestamp": "2026-05-14 12:52:06",
+    "window_id": "W05",
+    "amount": 3.11
+  },
+  {
+    "transaction_id": "T043",
+    "student_id": "S1166",
+    "timestamp": "2026-05-17 18:06:18",
+    "window_id": "W04",
+    "amount": 6.4
+  },
+  {
+    "transaction_id": "T044",
+    "student_id": "S1084",
+    "timestamp": "2026-05-18 17:52:45",
+    "window_id": "W04",
+    "amount": 7.99
+  },
+  {
+    "transaction_id": "T045",
+    "student_id": "S1102",
+    "timestamp": "2026-05-17 11:56:09",
+    "window_id": "W01",
+    "amount": 12.11
+  },
+  {
+    "transaction_id": "T046",
+    "student_id": "S1055",
+    "timestamp": "2026-05-14 12:41:40",
+    "window_id": "W02",
+    "amount": 10.68
+  },
+  {
+    "transaction_id": "T047",
+    "student_id": "S1015",
+    "timestamp": "2026-05-17 12:43:24",
+    "window_id": "W05",
+    "amount": 4.01
+  },
+  {
+    "transaction_id": "T048",
+    "student_id": "S1156",
+    "timestamp": "2026-05-14 11:53:17",
+    "window_id": "W03",
+    "amount": 7.6
+  },
+  {
+    "transaction_id": "T049",
+    "student_id": "S1163",
+    "timestamp": "2026-05-16 12:20:05",
+    "window_id": "W02",
+    "amount": 11.24
+  },
+  {
+    "transaction_id": "T050",
+    "student_id": "S1071",
+    "timestamp": "2026-05-12 12:14:37",
+    "window_id": "W05",
+    "amount": 3.38
+  },
+  {
+    "transaction_id": "T051",
+    "student_id": "S1078",
+    "timestamp": "2026-05-18 11:12:29",
+    "window_id": "W05",
+    "amount": 3.33
+  },
+  {
+    "transaction_id": "T052",
+    "student_id": "S1140",
+    "timestamp": "2026-05-17 18:32:39",
+    "window_id": "W06",
+    "amount": 9.04
+  },
+  {
+    "transaction_id": "T053",
+    "student_id": "S1030",
+    "timestamp": "2026-05-15 17:18:51",
+    "window_id": "W05",
+    "amount": 4.12
+  },
+  {
+    "transaction_id": "T054",
+    "student_id": "S1026",
+    "timestamp": "2026-05-18 12:38:58",
+    "window_id": "W05",
+    "amount": 3.81
+  },
+  {
+    "transaction_id": "T055",
+    "student_id": "S1061",
+    "timestamp": "2026-05-13 17:45:37",
+    "window_id": "W05",
+    "amount": 4.1
+  },
+  {
+    "transaction_id": "T056",
+    "student_id": "S1034",
+    "timestamp": "2026-05-13 11:41:03",
+    "window_id": "W04",
+    "amount": 5.43
+  },
+  {
+    "transaction_id": "T057",
+    "student_id": "S1082",
+    "timestamp": "2026-05-15 12:07:06",
+    "window_id": "W01",
+    "amount": 12.18
+  },
+  {
+    "transaction_id": "T058",
+    "student_id": "S1194",
+    "timestamp": "2026-05-15 17:36:12",
+    "window_id": "W01",
+    "amount": 15.64
+  },
+  {
+    "transaction_id": "T059",
+    "student_id": "S1052",
+    "timestamp": "2026-05-12 18:47:32",
+    "window_id": "W03",
+    "amount": 9.33
+  },
+  {
+    "transaction_id": "T060",
+    "student_id": "S1100",
+    "timestamp": "2026-05-16 12:55:15",
+    "window_id": "W03",
+    "amount": 9.45
+  },
+  {
+    "transaction_id": "T061",
+    "student_id": "S1056",
+    "timestamp": "2026-05-14 18:21:02",
+    "window_id": "W04",
+    "amount": 5.78
+  },
+  {
+    "transaction_id": "T062",
+    "student_id": "S1050",
+    "timestamp": "2026-05-12 11:55:58",
+    "window_id": "W01",
+    "amount": 11.08
+  },
+  {
+    "transaction_id": "T063",
+    "student_id": "S1142",
+    "timestamp": "2026-05-14 11:36:32",
+    "window_id": "W05",
+    "amount": 5.77
+  },
+  {
+    "transaction_id": "T064",
+    "student_id": "S1039",
+    "timestamp": "2026-05-14 12:47:11",
+    "window_id": "W05",
+    "amount": 5.01
+  },
+  {
+    "transaction_id": "T065",
+    "student_id": "S1009",
+    "timestamp": "2026-05-16 17:11:11",
+    "window_id": "W01",
+    "amount": 10.1
+  },
+  {
+    "transaction_id": "T066",
+    "student_id": "S1046",
+    "timestamp": "2026-05-16 17:59:54",
+    "window_id": "W04",
+    "amount": 7.7
+  },
+  {
+    "transaction_id": "T067",
+    "student_id": "S1195",
+    "timestamp": "2026-05-17 12:02:42",
+    "window_id": "W03",
+    "amount": 6.67
+  },
+  {
+    "transaction_id": "T068",
+    "student_id": "S1021",
+    "timestamp": "2026-05-12 18:10:54",
+    "window_id": "W04",
+    "amount": 7.43
+  },
+  {
+    "transaction_id": "T069",
+    "student_id": "S1139",
+    "timestamp": "2026-05-18 12:58:48",
+    "window_id": "W04",
+    "amount": 6.27
+  },
+  {
+    "transaction_id": "T070",
+    "student_id": "S1197",
+    "timestamp": "2026-05-14 11:03:37",
+    "window_id": "W03",
+    "amount": 9.29
+  },
+  {
+    "transaction_id": "T071",
+    "student_id": "S1153",
+    "timestamp": "2026-05-18 11:23:12",
+    "window_id": "W04",
+    "amount": 5.05
+  },
+  {
+    "transaction_id": "T072",
+    "student_id": "S1043",
+    "timestamp": "2026-05-15 12:21:13",
+    "window_id": "W04",
+    "amount": 6.13
+  },
+  {
+    "transaction_id": "T073",
+    "student_id": "S1016",
+    "timestamp": "2026-05-17 12:11:55",
+    "window_id": "W03",
+    "amount": 7.7
+  },
+  {
+    "transaction_id": "T074",
+    "student_id": "S1077",
+    "timestamp": "2026-05-16 11:04:12",
+    "window_id": "W05",
+    "amount": 4.0
+  },
+  {
+    "transaction_id": "T075",
+    "student_id": "S1167",
+    "timestamp": "2026-05-12 11:12:55",
+    "window_id": "W04",
+    "amount": 7.66
+  },
+  {
+    "transaction_id": "T076",
+    "student_id": "S1051",
+    "timestamp": "2026-05-13 18:00:55",
+    "window_id": "W01",
+    "amount": 12.27
+  },
+  {
+    "transaction_id": "T077",
+    "student_id": "S1077",
+    "timestamp": "2026-05-12 17:25:21",
+    "window_id": "W05",
+    "amount": 3.82
+  },
+  {
+    "transaction_id": "T078",
+    "student_id": "S1029",
+    "timestamp": "2026-05-14 12:21:14",
+    "window_id": "W02",
+    "amount": 9.86
+  },
+  {
+    "transaction_id": "T079",
+    "student_id": "S1192",
+    "timestamp": "2026-05-18 17:05:12",
+    "window_id": "W06",
+    "amount": 8.26
+  },
+  {
+    "transaction_id": "T080",
+    "student_id": "S1095",
+    "timestamp": "2026-05-13 18:47:58",
+    "window_id": "W05",
+    "amount": 4.96
+  },
+  {
+    "transaction_id": "T081",
+    "student_id": "S1156",
+    "timestamp": "2026-05-16 18:01:03",
+    "window_id": "W01",
+    "amount": 15.83
+  },
+  {
+    "transaction_id": "T082",
+    "student_id": "S1158",
+    "timestamp": "2026-05-14 12:42:50",
+    "window_id": "W04",
+    "amount": 6.12
+  },
+  {
+    "transaction_id": "T083",
+    "student_id": "S1138",
+    "timestamp": "2026-05-16 11:02:55",
+    "window_id": "W03",
+    "amount": 8.31
+  },
+  {
+    "transaction_id": "T084",
+    "student_id": "S1016",
+    "timestamp": "2026-05-16 17:25:56",
+    "window_id": "W05",
+    "amount": 4.26
+  },
+  {
+    "transaction_id": "T085",
+    "student_id": "S1154",
+    "timestamp": "2026-05-13 17:58:50",
+    "window_id": "W05",
+    "amount": 4.97
+  },
+  {
+    "transaction_id": "T086",
+    "student_id": "S1191",
+    "timestamp": "2026-05-14 18:03:56",
+    "window_id": "W01",
+    "amount": 11.3
+  },
+  {
+    "transaction_id": "T087",
+    "student_id": "S1037",
+    "timestamp": "2026-05-17 12:26:37",
+    "window_id": "W01",
+    "amount": 11.98
+  },
+  {
+    "transaction_id": "T088",
+    "student_id": "S1027",
+    "timestamp": "2026-05-13 18:00:19",
+    "window_id": "W04",
+    "amount": 5.61
+  },
+  {
+    "transaction_id": "T089",
+    "student_id": "S1071",
+    "timestamp": "2026-05-18 11:39:51",
+    "window_id": "W02",
+    "amount": 11.15
+  },
+  {
+    "transaction_id": "T090",
+    "student_id": "S1079",
+    "timestamp": "2026-05-17 11:40:05",
+    "window_id": "W06",
+    "amount": 7.09
+  },
+  {
+    "transaction_id": "T091",
+    "student_id": "S1133",
+    "timestamp": "2026-05-13 11:29:49",
+    "window_id": "W05",
+    "amount": 5.04
+  },
+  {
+    "transaction_id": "T092",
+    "student_id": "S1020",
+    "timestamp": "2026-05-13 17:31:28",
+    "window_id": "W03",
+    "amount": 9.26
+  },
+  {
+    "transaction_id": "T093",
+    "student_id": "S1049",
+    "timestamp": "2026-05-17 12:29:54",
+    "window_id": "W03",
+    "amount": 7.6
+  },
+  {
+    "transaction_id": "T094",
+    "student_id": "S1010",
+    "timestamp": "2026-05-17 11:54:58",
+    "window_id": "W02",
+    "amount": 11.43
+  },
+  {
+    "transaction_id": "T095",
+    "student_id": "S1059",
+    "timestamp": "2026-05-12 18:25:27",
+    "window_id": "W02",
+    "amount": 10.95
+  },
+  {
+    "transaction_id": "T096",
+    "student_id": "S1049",
+    "timestamp": "2026-05-12 17:40:54",
+    "window_id": "W06",
+    "amount": 8.95
+  },
+  {
+    "transaction_id": "T097",
+    "student_id": "S1065",
+    "timestamp": "2026-05-18 12:06:23",
+    "window_id": "W04",
+    "amount": 6.29
+  },
+  {
+    "transaction_id": "T098",
+    "student_id": "S1129",
+    "timestamp": "2026-05-17 17:36:47",
+    "window_id": "W02",
+    "amount": 10.76
+  },
+  {
+    "transaction_id": "T099",
+    "student_id": "S1136",
+    "timestamp": "2026-05-14 11:54:14",
+    "window_id": "W05",
+    "amount": 4.64
+  },
+  {
+    "transaction_id": "T100",
+    "student_id": "S1148",
+    "timestamp": "2026-05-18 12:57:30",
+    "window_id": "W06",
+    "amount": 8.41
+  },
+  {
+    "transaction_id": "T101",
+    "student_id": "S1037",
+    "timestamp": "2026-05-18 18:24:01",
+    "window_id": "W02",
+    "amount": 9.57
+  },
+  {
+    "transaction_id": "T102",
+    "student_id": "S1142",
+    "timestamp": "2026-05-13 12:36:11",
+    "window_id": "W04",
+    "amount": 7.87
+  },
+  {
+    "transaction_id": "T103",
+    "student_id": "S1110",
+    "timestamp": "2026-05-18 11:58:01",
+    "window_id": "W01",
+    "amount": 14.28
+  },
+  {
+    "transaction_id": "T104",
+    "student_id": "S1133",
+    "timestamp": "2026-05-13 18:27:25",
+    "window_id": "W02",
+    "amount": 10.48
+  },
+  {
+    "transaction_id": "T105",
+    "student_id": "S1054",
+    "timestamp": "2026-05-12 11:55:04",
+    "window_id": "W04",
+    "amount": 5.52
+  },
+  {
+    "transaction_id": "T106",
+    "student_id": "S1170",
+    "timestamp": "2026-05-12 11:31:09",
+    "window_id": "W01",
+    "amount": 11.27
+  },
+  {
+    "transaction_id": "T107",
+    "student_id": "S1040",
+    "timestamp": "2026-05-14 12:45:53",
+    "window_id": "W02",
+    "amount": 10.51
+  },
+  {
+    "transaction_id": "T108",
+    "student_id": "S1198",
+    "timestamp": "2026-05-17 11:56:49",
+    "window_id": "W02",
+    "amount": 11.65
+  },
+  {
+    "transaction_id": "T109",
+    "student_id": "S1090",
+    "timestamp": "2026-05-12 18:55:38",
+    "window_id": "W03",
+    "amount": 9.43
+  },
+  {
+    "transaction_id": "T110",
+    "student_id": "S1010",
+    "timestamp": "2026-05-13 12:25:38",
+    "window_id": "W02",
+    "amount": 11.45
+  },
+  {
+    "transaction_id": "T111",
+    "student_id": "S1078",
+    "timestamp": "2026-05-12 12:13:19",
+    "window_id": "W06",
+    "amount": 6.77
+  },
+  {
+    "transaction_id": "T112",
+    "student_id": "S1167",
+    "timestamp": "2026-05-12 12:24:09",
+    "window_id": "W01",
+    "amount": 13.18
+  },
+  {
+    "transaction_id": "T113",
+    "student_id": "S1186",
+    "timestamp": "2026-05-17 17:28:39",
+    "window_id": "W06",
+    "amount": 7.18
+  },
+  {
+    "transaction_id": "T114",
+    "student_id": "S1093",
+    "timestamp": "2026-05-14 18:11:43",
+    "window_id": "W03",
+    "amount": 9.66
+  },
+  {
+    "transaction_id": "T115",
+    "student_id": "S1019",
+    "timestamp": "2026-05-15 17:54:54",
+    "window_id": "W03",
+    "amount": 8.34
+  },
+  {
+    "transaction_id": "T116",
+    "student_id": "S1017",
+    "timestamp": "2026-05-13 12:47:53",
+    "window_id": "W02",
+    "amount": 9.11
+  },
+  {
+    "transaction_id": "T117",
+    "student_id": "S1140",
+    "timestamp": "2026-05-17 12:51:03",
+    "window_id": "W03",
+    "amount": 8.21
+  },
+  {
+    "transaction_id": "T118",
+    "student_id": "S1003",
+    "timestamp": "2026-05-18 11:11:05",
+    "window_id": "W02",
+    "amount": 9.38
+  },
+  {
+    "transaction_id": "T119",
+    "student_id": "S1026",
+    "timestamp": "2026-05-15 17:19:42",
+    "window_id": "W02",
+    "amount": 11.94
+  },
+  {
+    "transaction_id": "T120",
+    "student_id": "S1072",
+    "timestamp": "2026-05-13 11:07:08",
+    "window_id": "W04",
+    "amount": 6.92
+  },
+  {
+    "transaction_id": "T121",
+    "student_id": "S1078",
+    "timestamp": "2026-05-12 11:57:27",
+    "window_id": "W04",
+    "amount": 6.06
+  },
+  {
+    "transaction_id": "T122",
+    "student_id": "S1082",
+    "timestamp": "2026-05-18 12:55:24",
+    "window_id": "W02",
+    "amount": 9.36
+  },
+  {
+    "transaction_id": "T123",
+    "student_id": "S1171",
+    "timestamp": "2026-05-15 11:08:41",
+    "window_id": "W03",
+    "amount": 9.39
+  },
+  {
+    "transaction_id": "T124",
+    "student_id": "S1156",
+    "timestamp": "2026-05-16 17:35:47",
+    "window_id": "W05",
+    "amount": 4.85
+  },
+  {
+    "transaction_id": "T125",
+    "student_id": "S1173",
+    "timestamp": "2026-05-17 18:59:00",
+    "window_id": "W05",
+    "amount": 4.71
+  },
+  {
+    "transaction_id": "T126",
+    "student_id": "S1009",
+    "timestamp": "2026-05-12 18:47:48",
+    "window_id": "W01",
+    "amount": 13.94
+  },
+  {
+    "transaction_id": "T127",
+    "student_id": "S1121",
+    "timestamp": "2026-05-16 17:11:41",
+    "window_id": "W04",
+    "amount": 6.05
+  },
+  {
+    "transaction_id": "T128",
+    "student_id": "S1197",
+    "timestamp": "2026-05-17 17:02:21",
+    "window_id": "W02",
+    "amount": 9.14
+  },
+  {
+    "transaction_id": "T129",
+    "student_id": "S1189",
+    "timestamp": "2026-05-15 12:06:22",
+    "window_id": "W04",
+    "amount": 6.61
+  },
+  {
+    "transaction_id": "T130",
+    "student_id": "S1122",
+    "timestamp": "2026-05-18 12:30:48",
+    "window_id": "W03",
+    "amount": 9.57
+  },
+  {
+    "transaction_id": "T131",
+    "student_id": "S1088",
+    "timestamp": "2026-05-18 18:13:08",
+    "window_id": "W03",
+    "amount": 9.25
+  },
+  {
+    "transaction_id": "T132",
+    "student_id": "S1002",
+    "timestamp": "2026-05-16 18:09:30",
+    "window_id": "W01",
+    "amount": 15.26
+  },
+  {
+    "transaction_id": "T133",
+    "student_id": "S1133",
+    "timestamp": "2026-05-12 11:18:02",
+    "window_id": "W02",
+    "amount": 10.3
+  },
+  {
+    "transaction_id": "T134",
+    "student_id": "S1140",
+    "timestamp": "2026-05-14 12:29:27",
+    "window_id": "W05",
+    "amount": 5.19
+  },
+  {
+    "transaction_id": "T135",
+    "student_id": "S1103",
+    "timestamp": "2026-05-18 17:40:06",
+    "window_id": "W06",
+    "amount": 9.25
+  },
+  {
+    "transaction_id": "T136",
+    "student_id": "S1011",
+    "timestamp": "2026-05-14 17:10:46",
+    "window_id": "W06",
+    "amount": 8.07
+  },
+  {
+    "transaction_id": "T137",
+    "student_id": "S1163",
+    "timestamp": "2026-05-14 17:28:03",
+    "window_id": "W04",
+    "amount": 7.65
+  },
+  {
+    "transaction_id": "T138",
+    "student_id": "S1051",
+    "timestamp": "2026-05-17 11:25:56",
+    "window_id": "W05",
+    "amount": 3.17
+  },
+  {
+    "transaction_id": "T139",
+    "student_id": "S1026",
+    "timestamp": "2026-05-16 12:51:00",
+    "window_id": "W06",
+    "amount": 9.24
+  },
+  {
+    "transaction_id": "T140",
+    "student_id": "S1125",
+    "timestamp": "2026-05-18 18:39:36",
+    "window_id": "W01",
+    "amount": 15.85
+  },
+  {
+    "transaction_id": "T141",
+    "student_id": "S1025",
+    "timestamp": "2026-05-16 17:20:23",
+    "window_id": "W05",
+    "amount": 5.32
+  },
+  {
+    "transaction_id": "T142",
+    "student_id": "S1016",
+    "timestamp": "2026-05-15 11:33:14",
+    "window_id": "W04",
+    "amount": 6.15
+  },
+  {
+    "transaction_id": "T143",
+    "student_id": "S1109",
+    "timestamp": "2026-05-13 11:54:08",
+    "window_id": "W01",
+    "amount": 15.09
+  },
+  {
+    "transaction_id": "T144",
+    "student_id": "S1157",
+    "timestamp": "2026-05-12 12:59:06",
+    "window_id": "W02",
+    "amount": 9.12
+  },
+  {
+    "transaction_id": "T145",
+    "student_id": "S1058",
+    "timestamp": "2026-05-15 18:13:36",
+    "window_id": "W04",
+    "amount": 6.88
+  },
+  {
+    "transaction_id": "T146",
+    "student_id": "S1061",
+    "timestamp": "2026-05-14 18:08:25",
+    "window_id": "W01",
+    "amount": 10.73
+  },
+  {
+    "transaction_id": "T147",
+    "student_id": "S1082",
+    "timestamp": "2026-05-17 12:56:07",
+    "window_id": "W03",
+    "amount": 8.41
+  },
+  {
+    "transaction_id": "T148",
+    "student_id": "S1181",
+    "timestamp": "2026-05-15 11:39:07",
+    "window_id": "W02",
+    "amount": 9.38
+  },
+  {
+    "transaction_id": "T149",
+    "student_id": "S1118",
+    "timestamp": "2026-05-12 18:03:32",
+    "window_id": "W06",
+    "amount": 8.73
+  },
+  {
+    "transaction_id": "T150",
+    "student_id": "S1161",
+    "timestamp": "2026-05-14 11:35:08",
+    "window_id": "W03",
+    "amount": 6.64
+  },
+  {
+    "transaction_id": "T151",
+    "student_id": "S1168",
+    "timestamp": "2026-05-16 12:33:07",
+    "window_id": "W03",
+    "amount": 7.44
+  },
+  {
+    "transaction_id": "T152",
+    "student_id": "S1114",
+    "timestamp": "2026-05-17 12:50:51",
+    "window_id": "W05",
+    "amount": 4.14
+  },
+  {
+    "transaction_id": "T153",
+    "student_id": "S1088",
+    "timestamp": "2026-05-17 17:09:15",
+    "window_id": "W02",
+    "amount": 9.01
+  },
+  {
+    "transaction_id": "T154",
+    "student_id": "S1071",
+    "timestamp": "2026-05-16 17:17:54",
+    "window_id": "W04",
+    "amount": 7.82
+  },
+  {
+    "transaction_id": "T155",
+    "student_id": "S1031",
+    "timestamp": "2026-05-14 17:08:52",
+    "window_id": "W04",
+    "amount": 6.82
+  },
+  {
+    "transaction_id": "T156",
+    "student_id": "S1184",
+    "timestamp": "2026-05-14 18:01:36",
+    "window_id": "W05",
+    "amount": 3.23
+  },
+  {
+    "transaction_id": "T157",
+    "student_id": "S1054",
+    "timestamp": "2026-05-16 18:25:19",
+    "window_id": "W06",
+    "amount": 7.81
+  },
+  {
+    "transaction_id": "T158",
+    "student_id": "S1126",
+    "timestamp": "2026-05-18 17:45:53",
+    "window_id": "W06",
+    "amount": 8.16
+  },
+  {
+    "transaction_id": "T159",
+    "student_id": "S1115",
+    "timestamp": "2026-05-18 18:45:39",
+    "window_id": "W05",
+    "amount": 5.55
+  },
+  {
+    "transaction_id": "T160",
+    "student_id": "S1082",
+    "timestamp": "2026-05-16 18:26:47",
+    "window_id": "W01",
+    "amount": 11.69
+  },
+  {
+    "transaction_id": "T161",
+    "student_id": "S1137",
+    "timestamp": "2026-05-14 17:19:08",
+    "window_id": "W06",
+    "amount": 9.06
+  },
+  {
+    "transaction_id": "T162",
+    "student_id": "S1184",
+    "timestamp": "2026-05-17 18:53:06",
+    "window_id": "W06",
+    "amount": 8.75
+  },
+  {
+    "transaction_id": "T163",
+    "student_id": "S1130",
+    "timestamp": "2026-05-13 11:27:30",
+    "window_id": "W06",
+    "amount": 6.62
+  },
+  {
+    "transaction_id": "T164",
+    "student_id": "S1099",
+    "timestamp": "2026-05-18 11:43:21",
+    "window_id": "W03",
+    "amount": 9.01
+  },
+  {
+    "transaction_id": "T165",
+    "student_id": "S1105",
+    "timestamp": "2026-05-13 11:14:34",
+    "window_id": "W06",
+    "amount": 7.32
+  },
+  {
+    "transaction_id": "T166",
+    "student_id": "S1191",
+    "timestamp": "2026-05-18 18:03:39",
+    "window_id": "W05",
+    "amount": 3.43
+  },
+  {
+    "transaction_id": "T167",
+    "student_id": "S1012",
+    "timestamp": "2026-05-15 17:48:06",
+    "window_id": "W04",
+    "amount": 7.21
+  },
+  {
+    "transaction_id": "T168",
+    "student_id": "S1011",
+    "timestamp": "2026-05-14 11:15:46",
+    "window_id": "W06",
+    "amount": 6.62
+  },
+  {
+    "transaction_id": "T169",
+    "student_id": "S1174",
+    "timestamp": "2026-05-18 18:54:16",
+    "window_id": "W04",
+    "amount": 6.92
+  },
+  {
+    "transaction_id": "T170",
+    "student_id": "S1153",
+    "timestamp": "2026-05-15 17:09:39",
+    "window_id": "W01",
+    "amount": 15.97
+  },
+  {
+    "transaction_id": "T171",
+    "student_id": "S1162",
+    "timestamp": "2026-05-18 18:58:09",
+    "window_id": "W02",
+    "amount": 10.59
+  },
+  {
+    "transaction_id": "T172",
+    "student_id": "S1151",
+    "timestamp": "2026-05-16 11:48:00",
+    "window_id": "W06",
+    "amount": 9.83
+  },
+  {
+    "transaction_id": "T173",
+    "student_id": "S1166",
+    "timestamp": "2026-05-16 18:01:27",
+    "window_id": "W04",
+    "amount": 5.18
+  },
+  {
+    "transaction_id": "T174",
+    "student_id": "S1137",
+    "timestamp": "2026-05-12 11:38:45",
+    "window_id": "W01",
+    "amount": 10.4
+  },
+  {
+    "transaction_id": "T175",
+    "student_id": "S1096",
+    "timestamp": "2026-05-13 11:58:53",
+    "window_id": "W05",
+    "amount": 3.21
+  },
+  {
+    "transaction_id": "T176",
+    "student_id": "S1143",
+    "timestamp": "2026-05-17 17:20:47",
+    "window_id": "W05",
+    "amount": 5.65
+  },
+  {
+    "transaction_id": "T177",
+    "student_id": "S1022",
+    "timestamp": "2026-05-12 18:20:49",
+    "window_id": "W06",
+    "amount": 7.04
+  },
+  {
+    "transaction_id": "T178",
+    "student_id": "S1057",
+    "timestamp": "2026-05-14 12:54:37",
+    "window_id": "W04",
+    "amount": 7.2
+  },
+  {
+    "transaction_id": "T179",
+    "student_id": "S1191",
+    "timestamp": "2026-05-12 17:28:50",
+    "window_id": "W02",
+    "amount": 11.62
+  },
+  {
+    "transaction_id": "T180",
+    "student_id": "S1168",
+    "timestamp": "2026-05-14 11:05:38",
+    "window_id": "W01",
+    "amount": 15.85
+  },
+  {
+    "transaction_id": "T181",
+    "student_id": "S1149",
+    "timestamp": "2026-05-15 17:54:55",
+    "window_id": "W03",
+    "amount": 7.07
+  },
+  {
+    "transaction_id": "T182",
+    "student_id": "S1056",
+    "timestamp": "2026-05-12 18:06:17",
+    "window_id": "W01",
+    "amount": 11.23
+  },
+  {
+    "transaction_id": "T183",
+    "student_id": "S1127",
+    "timestamp": "2026-05-14 17:53:38",
+    "window_id": "W05",
+    "amount": 4.38
+  },
+  {
+    "transaction_id": "T184",
+    "student_id": "S1006",
+    "timestamp": "2026-05-12 12:09:33",
+    "window_id": "W03",
+    "amount": 7.81
+  },
+  {
+    "transaction_id": "T185",
+    "student_id": "S1101",
+    "timestamp": "2026-05-14 11:00:23",
+    "window_id": "W06",
+    "amount": 8.5
+  },
+  {
+    "transaction_id": "T186",
+    "student_id": "S1176",
+    "timestamp": "2026-05-13 11:30:42",
+    "window_id": "W06",
+    "amount": 7.21
+  },
+  {
+    "transaction_id": "T187",
+    "student_id": "S1030",
+    "timestamp": "2026-05-16 18:21:42",
+    "window_id": "W03",
+    "amount": 8.3
+  },
+  {
+    "transaction_id": "T188",
+    "student_id": "S1053",
+    "timestamp": "2026-05-13 11:28:39",
+    "window_id": "W02",
+    "amount": 9.92
+  },
+  {
+    "transaction_id": "T189",
+    "student_id": "S1129",
+    "timestamp": "2026-05-13 18:38:58",
+    "window_id": "W04",
+    "amount": 6.55
+  },
+  {
+    "transaction_id": "T190",
+    "student_id": "S1086",
+    "timestamp": "2026-05-17 17:20:07",
+    "window_id": "W04",
+    "amount": 5.48
+  },
+  {
+    "transaction_id": "T191",
+    "student_id": "S1177",
+    "timestamp": "2026-05-14 17:00:20",
+    "window_id": "W02",
+    "amount": 11.28
+  },
+  {
+    "transaction_id": "T192",
+    "student_id": "S1149",
+    "timestamp": "2026-05-18 18:55:03",
+    "window_id": "W03",
+    "amount": 8.08
+  },
+  {
+    "transaction_id": "T193",
+    "student_id": "S1032",
+    "timestamp": "2026-05-12 11:43:11",
+    "window_id": "W01",
+    "amount": 15.61
+  },
+  {
+    "transaction_id": "T194",
+    "student_id": "S1024",
+    "timestamp": "2026-05-15 12:42:06",
+    "window_id": "W02",
+    "amount": 10.57
+  },
+  {
+    "transaction_id": "T195",
+    "student_id": "S1099",
+    "timestamp": "2026-05-13 12:27:22",
+    "window_id": "W01",
+    "amount": 10.68
+  },
+  {
+    "transaction_id": "T196",
+    "student_id": "S1120",
+    "timestamp": "2026-05-17 17:23:05",
+    "window_id": "W02",
+    "amount": 11.27
+  },
+  {
+    "transaction_id": "T197",
+    "student_id": "S1002",
+    "timestamp": "2026-05-12 18:21:54",
+    "window_id": "W03",
+    "amount": 8.78
+  },
+  {
+    "transaction_id": "T198",
+    "student_id": "S1100",
+    "timestamp": "2026-05-15 11:29:28",
+    "window_id": "W01",
+    "amount": 10.98
+  },
+  {
+    "transaction_id": "T199",
+    "student_id": "S1030",
+    "timestamp": "2026-05-14 12:00:48",
+    "window_id": "W06",
+    "amount": 8.24
+  },
+  {
+    "transaction_id": "T200",
+    "student_id": "S1199",
+    "timestamp": "2026-05-16 18:58:26",
+    "window_id": "W03",
+    "amount": 6.67
+  },
+  {
+    "transaction_id": "T201",
+    "student_id": "S1169",
+    "timestamp": "2026-05-15 17:01:04",
+    "window_id": "W06",
+    "amount": 9.43
+  },
+  {
+    "transaction_id": "T202",
+    "student_id": "S1067",
+    "timestamp": "2026-05-14 11:59:37",
+    "window_id": "W01",
+    "amount": 11.97
+  },
+  {
+    "transaction_id": "T203",
+    "student_id": "S1114",
+    "timestamp": "2026-05-12 17:37:57",
+    "window_id": "W06",
+    "amount": 8.23
+  },
+  {
+    "transaction_id": "T204",
+    "student_id": "S1191",
+    "timestamp": "2026-05-16 11:47:13",
+    "window_id": "W02",
+    "amount": 10.58
+  },
+  {
+    "transaction_id": "T205",
+    "student_id": "S1150",
+    "timestamp": "2026-05-16 11:47:38",
+    "window_id": "W06",
+    "amount": 6.57
+  },
+  {
+    "transaction_id": "T206",
+    "student_id": "S1024",
+    "timestamp": "2026-05-16 18:28:27",
+    "window_id": "W03",
+    "amount": 8.79
+  },
+  {
+    "transaction_id": "T207",
+    "student_id": "S1076",
+    "timestamp": "2026-05-16 18:04:11",
+    "window_id": "W01",
+    "amount": 13.39
+  },
+  {
+    "transaction_id": "T208",
+    "student_id": "S1177",
+    "timestamp": "2026-05-13 18:19:10",
+    "window_id": "W02",
+    "amount": 8.95
+  },
+  {
+    "transaction_id": "T209",
+    "student_id": "S1098",
+    "timestamp": "2026-05-14 12:59:05",
+    "window_id": "W05",
+    "amount": 3.6
+  },
+  {
+    "transaction_id": "T210",
+    "student_id": "S1027",
+    "timestamp": "2026-05-13 12:06:59",
+    "window_id": "W05",
+    "amount": 5.4
+  },
+  {
+    "transaction_id": "T211",
+    "student_id": "S1156",
+    "timestamp": "2026-05-12 12:57:26",
+    "window_id": "W05",
+    "amount": 3.54
+  },
+  {
+    "transaction_id": "T212",
+    "student_id": "S1051",
+    "timestamp": "2026-05-13 12:38:23",
+    "window_id": "W01",
+    "amount": 15.55
+  },
+  {
+    "transaction_id": "T213",
+    "student_id": "S1127",
+    "timestamp": "2026-05-13 18:52:12",
+    "window_id": "W04",
+    "amount": 6.95
+  },
+  {
+    "transaction_id": "T214",
+    "student_id": "S1141",
+    "timestamp": "2026-05-18 17:54:25",
+    "window_id": "W02",
+    "amount": 11.0
+  },
+  {
+    "transaction_id": "T215",
+    "student_id": "S1081",
+    "timestamp": "2026-05-15 12:47:35",
+    "window_id": "W05",
+    "amount": 4.95
+  },
+  {
+    "transaction_id": "T216",
+    "student_id": "S1050",
+    "timestamp": "2026-05-12 18:01:07",
+    "window_id": "W06",
+    "amount": 8.47
+  },
+  {
+    "transaction_id": "T217",
+    "student_id": "S1043",
+    "timestamp": "2026-05-14 18:59:56",
+    "window_id": "W06",
+    "amount": 7.79
+  },
+  {
+    "transaction_id": "T218",
+    "student_id": "S1142",
+    "timestamp": "2026-05-16 17:24:00",
+    "window_id": "W02",
+    "amount": 8.72
+  },
+  {
+    "transaction_id": "T219",
+    "student_id": "S1124",
+    "timestamp": "2026-05-12 12:20:19",
+    "window_id": "W02",
+    "amount": 8.9
+  },
+  {
+    "transaction_id": "T220",
+    "student_id": "S1198",
+    "timestamp": "2026-05-17 12:13:24",
+    "window_id": "W06",
+    "amount": 7.98
+  },
+  {
+    "transaction_id": "T221",
+    "student_id": "S1142",
+    "timestamp": "2026-05-15 18:34:37",
+    "window_id": "W02",
+    "amount": 10.73
+  },
+  {
+    "transaction_id": "T222",
+    "student_id": "S1093",
+    "timestamp": "2026-05-14 18:04:43",
+    "window_id": "W03",
+    "amount": 6.27
+  },
+  {
+    "transaction_id": "T223",
+    "student_id": "S1077",
+    "timestamp": "2026-05-12 11:18:19",
+    "window_id": "W01",
+    "amount": 14.61
+  },
+  {
+    "transaction_id": "T224",
+    "student_id": "S1081",
+    "timestamp": "2026-05-13 11:38:14",
+    "window_id": "W01",
+    "amount": 14.46
+  },
+  {
+    "transaction_id": "T225",
+    "student_id": "S1149",
+    "timestamp": "2026-05-17 12:12:08",
+    "window_id": "W01",
+    "amount": 13.64
+  },
+  {
+    "transaction_id": "T226",
+    "student_id": "S1006",
+    "timestamp": "2026-05-12 18:22:35",
+    "window_id": "W06",
+    "amount": 8.02
+  },
+  {
+    "transaction_id": "T227",
+    "student_id": "S1028",
+    "timestamp": "2026-05-18 12:06:42",
+    "window_id": "W04",
+    "amount": 5.62
+  },
+  {
+    "transaction_id": "T228",
+    "student_id": "S1193",
+    "timestamp": "2026-05-14 12:47:13",
+    "window_id": "W05",
+    "amount": 5.28
+  },
+  {
+    "transaction_id": "T229",
+    "student_id": "S1010",
+    "timestamp": "2026-05-13 18:55:21",
+    "window_id": "W06",
+    "amount": 6.82
+  },
+  {
+    "transaction_id": "T230",
+    "student_id": "S1079",
+    "timestamp": "2026-05-17 18:25:02",
+    "window_id": "W02",
+    "amount": 10.46
+  },
+  {
+    "transaction_id": "T231",
+    "student_id": "S1056",
+    "timestamp": "2026-05-16 12:13:48",
+    "window_id": "W06",
+    "amount": 8.84
+  },
+  {
+    "transaction_id": "T232",
+    "student_id": "S1108",
+    "timestamp": "2026-05-13 18:49:11",
+    "window_id": "W01",
+    "amount": 10.4
+  },
+  {
+    "transaction_id": "T233",
+    "student_id": "S1016",
+    "timestamp": "2026-05-18 12:22:31",
+    "window_id": "W06",
+    "amount": 9.66
+  },
+  {
+    "transaction_id": "T234",
+    "student_id": "S1009",
+    "timestamp": "2026-05-12 12:25:03",
+    "window_id": "W05",
+    "amount": 3.67
+  },
+  {
+    "transaction_id": "T235",
+    "student_id": "S1030",
+    "timestamp": "2026-05-16 17:35:23",
+    "window_id": "W06",
+    "amount": 8.45
+  },
+  {
+    "transaction_id": "T236",
+    "student_id": "S1104",
+    "timestamp": "2026-05-13 18:51:48",
+    "window_id": "W06",
+    "amount": 9.8
+  },
+  {
+    "transaction_id": "T237",
+    "student_id": "S1062",
+    "timestamp": "2026-05-14 12:02:52",
+    "window_id": "W06",
+    "amount": 8.06
+  },
+  {
+    "transaction_id": "T238",
+    "student_id": "S1196",
+    "timestamp": "2026-05-15 17:58:59",
+    "window_id": "W03",
+    "amount": 9.05
+  },
+  {
+    "transaction_id": "T239",
+    "student_id": "S1039",
+    "timestamp": "2026-05-12 17:07:18",
+    "window_id": "W06",
+    "amount": 7.66
+  },
+  {
+    "transaction_id": "T240",
+    "student_id": "S1009",
+    "timestamp": "2026-05-17 12:40:21",
+    "window_id": "W04",
+    "amount": 7.36
+  },
+  {
+    "transaction_id": "T241",
+    "student_id": "S1069",
+    "timestamp": "2026-05-15 11:13:38",
+    "window_id": "W01",
+    "amount": 14.04
+  },
+  {
+    "transaction_id": "T242",
+    "student_id": "S1081",
+    "timestamp": "2026-05-18 17:47:37",
+    "window_id": "W05",
+    "amount": 5.94
+  },
+  {
+    "transaction_id": "T243",
+    "student_id": "S1058",
+    "timestamp": "2026-05-14 17:39:30",
+    "window_id": "W04",
+    "amount": 5.28
+  },
+  {
+    "transaction_id": "T244",
+    "student_id": "S1141",
+    "timestamp": "2026-05-15 18:00:25",
+    "window_id": "W06",
+    "amount": 6.53
+  },
+  {
+    "transaction_id": "T245",
+    "student_id": "S1129",
+    "timestamp": "2026-05-17 12:45:46",
+    "window_id": "W06",
+    "amount": 7.92
+  },
+  {
+    "transaction_id": "T246",
+    "student_id": "S1167",
+    "timestamp": "2026-05-12 17:59:21",
+    "window_id": "W02",
+    "amount": 10.95
+  },
+  {
+    "transaction_id": "T247",
+    "student_id": "S1047",
+    "timestamp": "2026-05-15 12:52:46",
+    "window_id": "W01",
+    "amount": 15.65
+  },
+  {
+    "transaction_id": "T248",
+    "student_id": "S1030",
+    "timestamp": "2026-05-14 18:08:19",
+    "window_id": "W05",
+    "amount": 4.0
+  },
+  {
+    "transaction_id": "T249",
+    "student_id": "S1036",
+    "timestamp": "2026-05-13 17:14:11",
+    "window_id": "W02",
+    "amount": 9.69
+  },
+  {
+    "transaction_id": "T250",
+    "student_id": "S1180",
+    "timestamp": "2026-05-14 17:59:59",
+    "window_id": "W06",
+    "amount": 7.82
+  }
+]
